@@ -20,9 +20,10 @@ Replicate this view in iOS <br>
 
 # Possible Future Improvements
 
-- Show an event as not completed.
-- Support multiple languages.
-- Landscape support?
+- Show an event as not completed. Currently the text would change, but the alpha of the image would not. 
+- Support multiple languages? Only English is currently supported.
+- Support dark mode appearance? Currently hardcoded in Light Mode.
+- Landscape support? Currently hardcoded in portrait.
 - Show the date the achievement was accomplished.
 - Longest run to show both time and distance. Could be two different achievements.
 - To be able to click on the achievement and see the run you achieved it on.
