@@ -16,7 +16,7 @@ class AchievmentsViewController: UICollectionViewController {
 
     private var models = [EventViewModel]()
     private let itemsPerRow: CGFloat = 2
-    private let sectionInsets = UIEdgeInsets(top: 20, left: 25, bottom: 0, right: 25)
+    private let sectionInsets = UIEdgeInsets(top: 20, left: 15, bottom: 0, right: 15)
     private let heightModifier: CGFloat = 1.45
 
     override func viewDidLoad() {

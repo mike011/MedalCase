@@ -8,7 +8,6 @@
 import UIKit
 
 class EventCell: UICollectionViewCell {
-
     static let reuseIdentifier = "Event"
     @IBOutlet weak var image: UIImageView!
     @IBOutlet weak var title: UILabel!
